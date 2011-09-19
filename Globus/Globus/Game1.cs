@@ -12,7 +12,7 @@ using Microsoft.Xna.Framework.Media;
 namespace Globus
 {
     /// <summary>
-    /// Game comment.
+    /// Game comment...
     /// </summary>
     public class Game1 : Microsoft.Xna.Framework.Game
     {
